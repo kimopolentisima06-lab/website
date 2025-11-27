@@ -1,4 +1,4 @@
----
+allow bypass cloudfair---
 title: Backups
 titleTemplate: Guides
 description: Backups helps you prevent losing your library if something happens.
